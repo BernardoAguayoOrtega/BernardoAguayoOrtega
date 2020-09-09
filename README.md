@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on any fun app, if you have an idea contact me
 - 🤔 I’m looking for help with understand more depthly firebase
 - 💬 Ask me about how to train or something about react, it will a pleasure for me help you
-- 📫 How to reach me: bernardo.aguayo.ortega@gmail.com / linkedin: link(https://www.linkedin.com/in/bernardo-aguayo/)
+- 📫 How to reach me: bernardo.aguayo.ortega@gmail.com / linkedin: [link](https://www.linkedin.com/in/bernardo-aguayo/)
 - 😄 Pronouns: Bernie
 - ⚡ Fun fact: I don't like eat soap
 
