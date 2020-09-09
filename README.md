@@ -8,13 +8,11 @@
 
 ###
 - 🔭 I’m currently working in Platzi Master
-- 🌱 I’m currently learning JavaScript
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning react.js in a depth way
+- 👯 I’m looking to collaborate on any fun app, if you have an idea contact me
+- 🤔 I’m looking for help with understand more depthly firebase
+- 💬 Ask me about how to train or something about react, it will a pleasure for me help you
+- 📫 How to reach me: bernardo.aguayo.ortega@gmail.com / linkedin: link(https://www.linkedin.com/in/bernardo-aguayo/)
+- 😄 Pronouns: Bernie
+- ⚡ Fun fact: I don't like eat soap
 
