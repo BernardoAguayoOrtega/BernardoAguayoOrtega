@@ -19,3 +19,5 @@
 <br/>
 
 [![Bernardo Aguayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true)](https://github.com/BernardoAguayoOrtega)
+
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAguayoOrtega&theme=radical)
