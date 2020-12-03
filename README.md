@@ -7,7 +7,7 @@
 -->
 
 ###
-- 🔭 I’m currently working in Platzi Master.
+- 🔭 I’m currently studying in Platzi Master.
 - 🌱 I’m currently learning react.js in a depth way.
 - 👯 I’m looking to collaborate on any fun app, if you have an idea contact me.
 - 🤔 I’m looking for help with understand more depthly firebase.
