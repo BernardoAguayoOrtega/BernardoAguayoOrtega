@@ -4,15 +4,13 @@
 
 <h2 align="center">About me</h2>
 
-```javascript
-{
-⚡ Quick bio: "I'm a software developer, I believe your code speak for yourself  also Be a factor of change with technologies to improve our society",
-🔭 I’m currently working on: "Marstom as a Software Developer --- Superprof as a Part Time Teacher",
-🌱 I’m currently learning: "next.js",
-💬 Ask me about: "anything you want, I'll be happy to help you",
-📫 How to reach me:"bernardo.aguayo.ortega@gmail.com",
-}
-```
+- 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/).
+- 🌱 I’m currently learning react.js in a depth way.
+- 👯 I’m looking to collaborate on any fun app, if you have an idea contact me.
+- 🤔 I’m looking for help with understand more depthly react.
+- 💬 Ask me about how to train or something about react, it will a pleasure for me help you.
+- 📫 How to reach me: bernardo.aguayo.ortega@gmail.com 
+- 😄 Pronouns: Bernie.
 
 <h2 align="center">You can reach me at :alien:</h2>
 
