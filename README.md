@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/).
 - 🌱 I’m currently learning react.js in a depth way.
 - 👯 I’m looking to collaborate on any fun app, if you have an idea contact me.
-- 🤔 I’m looking for help with understand more depthly react.
+- 🤔 I’m looking for help with understand more depthly next.js.
 - 💬 Ask me about how to train or something about react, it will a pleasure for me help you.
 - 📫 How to reach me: bernardo.aguayo.ortega@gmail.com 
 - 😄 Pronouns: Bernie.
