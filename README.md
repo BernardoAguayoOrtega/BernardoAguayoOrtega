@@ -6,13 +6,11 @@
 
 ```javascript
 {
-⚡ Quick bio:"I'm a software developer, I believe your code speak for yourself  also Be a factor of change with technologies to improve our society",
-"- 🔭 I’m currently working on": "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-"- 🌱 I’m currently learning": "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-"- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
-"- 💬 Ask me about": "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-"- 📫 How to reach me:": "https://github.com/AnhellO#you-can-reach-me-at-alien",
+⚡ Quick bio: "I'm a software developer, I believe your code speak for yourself  also Be a factor of change with technologies to improve our society",
+🔭 I’m currently working on: "Marstom as a Software Developer --- Superprof as a Part Time Teacher",
+🌱 I’m currently learning: "next.js",
+💬 Ask me about: "anything you want, I'll be happy to help you",
+📫 How to reach me:"bernardo.aguayo.ortega@gmail.com",
 }
 ```
 
