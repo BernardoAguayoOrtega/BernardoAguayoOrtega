@@ -12,7 +12,7 @@
 - 📫 How to reach me: bernardo.aguayo.ortega@gmail.com 
 - 😄 Pronouns: Bernie.
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">Also you can reach me at :alien:</h2>
 
 <p align="center">
 
