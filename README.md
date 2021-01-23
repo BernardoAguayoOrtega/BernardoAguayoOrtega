@@ -4,9 +4,9 @@
 
 <h2 align="center">About me</h2>
 
-```js
+```javascript
 {
-"- ⚡ Quick bio:":"A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+⚡ Quick bio:"I'm a software developer, I believe your code speak for yourself  also Be a factor of change with technologies to improve our society",
 "- 🔭 I’m currently working on": "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
 "- 🌱 I’m currently learning": "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
 "- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
