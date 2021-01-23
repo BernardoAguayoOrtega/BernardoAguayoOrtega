@@ -42,10 +42,6 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bernardo Aguayo's LinkedIn Profile" height="30" width="30">
   </a>
   
-  <a href="/">
-    bernardo.aguayo.ortega@gmail.com
-  </a>
-  
   <a href="https://www.youtube.com/channel/UCtvkIc5rYgE6tVnYcSPkuGA">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Bernardo Aguayo's YouTube Channel" height="30" width="30">
   </a>
@@ -72,7 +68,7 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
