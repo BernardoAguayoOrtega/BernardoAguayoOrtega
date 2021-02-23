@@ -4,6 +4,7 @@
 
 <h2 align="center">About me</h2>
 
+- :octocat: Software Engineer Frontend Team at [Ubidots](https://ubidots.com/)
 - 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/).
 - 🌱 I’m currently learning react.js in a depth way.
 - 👯 I’m looking to collaborate on any fun app, if you have an idea contact me.
