@@ -80,6 +80,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoAguayoOrtega&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ---
