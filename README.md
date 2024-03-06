@@ -2,7 +2,7 @@
 
 𝗜'𝗺 [Bernardo](https://github.com/BernardoAguayoOrtega)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 **wants make a change in the lives of people with technology**
 
-**Software engineer with 5+ years of experience specialized in web technologies and full-stack in SaaS applications for thousands of users around the world, expertise in React and its ecosystem.**
+**Software engineer with 4+ years of experience specialized in web technologies and full-stack in SaaS applications for thousands of users around the world, expertise in React and its ecosystem.**
 
 <h2 align="center">About me</h2>
 
