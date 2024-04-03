@@ -22,10 +22,6 @@
   <a href="https://www.linkedin.com/in/bernardo-aguayo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bernardo Aguayo's LinkedIn Profile" height="30" width="30">
   </a>
-  
-  <a href="https://www.youtube.com/channel/UCtvkIc5rYgE6tVnYcSPkuGA">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Bernardo Aguayo's YouTube Channel" height="30" width="30">
-  </a>
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
