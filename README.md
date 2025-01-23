@@ -1,12 +1,11 @@
 # Welcome！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="100px"> 
 
-𝗜'𝗺 [Bernardo](https://github.com/BernardoAguayoOrtega)！𝗜'𝗺 𝗮 **Senior** 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 **wants make a change in the lives of people with technology**
+𝗜'𝗺 [Bernardo](https://github.com/BernardoAguayoOrtega)！Senior Software Engineer | React, Next.js, JavaScript, TypeScript, Node.js Specialist
 
-**Senior Software Engineer with 5 years of experience specialized in web technologies and full-stack development for SaaS applications serving thousands of users worldwide, with a focus on technologies like React, Next.js, Node.js, and similar frameworks.**
-
+Passionate software engineer with over 6 years of experience in SaaS development, delivering scalable and high-performance applications used by thousands worldwide. I specialize in modern web technologies like React, Next.js, JavaScript, TypeScript, and Node.js, consistently providing high-quality solutions that drive business growth.
 <h2 align="center">About me</h2>
 
-- :octocat: Software Engineer Frontend Team at [Ubidots](https://ubidots.com/)
+- :octocat: Software Engineer Frontend Team at [Zero Copy Labs](https://www.zerocopylabs.com/)
 - 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/).
 - 🌱 I’m currently learning react.js in a depth way.
 - 👯 I’m looking to collaborate on any fun app, if you have an idea contact me.
