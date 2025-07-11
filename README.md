@@ -2,12 +2,13 @@
 
 𝗜'𝗺 [Bernardo](https://github.com/BernardoAguayoOrtega)！Senior Software Engineer | React, Next.js, JavaScript, TypeScript, Node.js Specialist
 
-Passionate software engineer with over 6 years of experience in SaaS development, delivering scalable and high-performance applications used by thousands worldwide. I specialize in modern web technologies like React, Next.js, JavaScript, TypeScript, and Node.js, consistently providing high-quality solutions that drive business growth.
+Passionate Software Engineer
+
+With over 6 years of experience in SaaS development, I specialize in delivering scalable and high-performance applications used by thousands worldwide. My expertise lies in modern web technologies like **React**, **Next.js**, **JavaScript**, **TypeScript**, and **Node.js**, where I consistently provide high-quality solutions that drive business growth. I'm currently expanding my skills into **artificial intelligence**, focusing on **LLM models** for high-quality code generation through prompt engineering and human-in-the-loop processes, developing **AI agents** for software developer tasks, and creating robust architectures for web and mobile applications with continuous flow development and integrated testing.
 <h2 align="center">About me</h2>
 
 - :octocat: Software Engineer Frontend Team at [Zero Copy Labs](https://www.zerocopylabs.com/)
-- 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/).
-- 🌱 I’m currently learning react.js in a depth way.
+- 🔭 I’m currently studying specialization courses in machine learning and deep learning at [Colegio Bourbaki](http://colegio-bourbaki.com/).
 - 👯 I’m looking to collaborate on any fun app, if you have an idea contact me.
 - 🤔 I’m looking for help with understand more depthly next.js.
 - 💬 Ask me about how to train or something about react, it will a pleasure for me help you.
@@ -17,7 +18,6 @@ Passionate software engineer with over 6 years of experience in SaaS development
 <h2 align="center">Also you can reach me at :alien:</h2>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/bernardo-aguayo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bernardo Aguayo's LinkedIn Profile" height="30" width="30">
   </a>
@@ -41,8 +41,7 @@ Passionate software engineer with over 6 years of experience in SaaS development
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="21px" height="21px"></a>
 <a href="https://spring.io/" title="Spring"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Spring" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://scikit-learn.org/stable/" title="Scikit-learn"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Scikit-learn_logo_small.svg" alt="Scikit-learn" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="21px" height="21px"></a>
@@ -79,4 +78,3 @@ Passionate software engineer with over 6 years of experience in SaaS development
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoAguayoOrtega&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
---
