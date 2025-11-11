@@ -2,7 +2,7 @@
 
 𝗜'𝗺 [Bernardo](https://github.com/BernardoAguayoOrtega)！Senior Software Engineer | React, Next.js, JavaScript, TypeScript, Node.js Specialist | AI & LLM Developer
 
-Passionate Software Engineer with over 6 years of experience in SaaS development, I specialize in delivering scalable and high-performance applications used by thousands worldwide. My expertise lies in modern web technologies like React, Next.js, JavaScript, TypeScript, and Node.js, where I consistently provide high-quality solutions that drive business growth. 
+Passionate Software Engineer with over 7 years of experience in SaaS development, I specialize in delivering scalable and high-performance applications used by thousands worldwide. My expertise lies in modern web technologies like React, Next.js, JavaScript, TypeScript, and Node.js, where I consistently provide high-quality solutions that drive business growth. 
 
 I'm currently expanding my skills into artificial intelligence, focusing on LLM models for high-quality code generation through prompt engineering and human-in-the-loop processes, developing AI agents for software developer tasks, and creating robust architectures for web and mobile applications with continuous flow development and integrated testing.
 
