@@ -69,15 +69,26 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 
 ## Github stats :bar_chart:
 
-### Visitor's count :eyes:
-![Bernardo's Visitors](https://komarev.com/ghpvc/?username=BernardoAguayoOrtega&label=Profile%20views&color=0e75b6&style=flat)
+<h2 align="center">Github stats :bar_chart:</h2>
 
-### Top langs :tongue:
-![Bernardo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BernardoAguayoOrtega&layout=compact&theme=synthwave)
+<h4 align="center">Visitor's count :eyes:</h4>
 
-### Profile stats :musical_keyboard:
-![Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BernardoAguayoOrtega&label=Profile%20views&color=0e75b6&style=flat" alt="BernardoAguayoOrtega :: Visitor's Count" />
+</p>
 
-![Bernardo's Streak](https://streak-stats.demolab.com?user=BernardoAguayoOrtega&theme=synthwave)
+<h4 align="center">Top langs :tongue:</h4>
 
-![Synthwave Animation](https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=BernardoAguayoOrtega&layout=compact&theme=synthwave" alt="Bernardo :: Top Langs" />
+</p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BernardoAguayoOrtega&theme=synthwave" alt="Bernardo :: Streak Stats" />
+</p>
