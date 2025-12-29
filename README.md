@@ -75,12 +75,20 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAguayoOrtega&langs_count=10&theme=synthwave&layout=compact" alt="Bernardo:: Top Langs" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAguayoOrtega&layout=compact&theme=synthwave" alt="Bernardo :: Top Langs" />
+</p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" />
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoAguayoOrtega&theme=synthwave" alt="Bernardo :: Profile Stats" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BernardoAguayoOrtega&theme=synthwave" alt="Bernardo :: Streak Stats" />
+</p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center">
+  <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
+</p>
