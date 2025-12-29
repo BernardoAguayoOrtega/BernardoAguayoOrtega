@@ -67,28 +67,17 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+## Github stats :bar_chart:
 
-<h4 align="center">Visitor's count :eyes:</h4>
+### Visitor's count :eyes:
+![Bernardo's Visitors](https://komarev.com/ghpvc/?username=BernardoAguayoOrtega&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=BernardoAguayoOrtega&label=Profile%20views&color=0e75b6&style=flat" alt="BernardoAguayoOrtega :: Visitor's Count" /></p>
+### Top langs :tongue:
+![Bernardo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BernardoAguayoOrtega&layout=compact&theme=synthwave)
 
-<h4 align="center">Top langs :tongue:</h4>
+### Profile stats :musical_keyboard:
+![Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAguayoOrtega&layout=compact&theme=synthwave" alt="Bernardo :: Top Langs" />
-</p>
+![Bernardo's Streak](https://streak-stats.demolab.com?user=BernardoAguayoOrtega&theme=synthwave)
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BernardoAguayoOrtega&theme=synthwave" alt="Bernardo :: Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
-</p>
+![Synthwave Animation](https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif)
