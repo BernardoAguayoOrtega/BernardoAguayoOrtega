@@ -88,7 +88,3 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BernardoAguayoOrtega&show_icons=true&theme=synthwave" alt="Bernardo :: Profile Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BernardoAguayoOrtega&theme=synthwave" alt="Bernardo :: Streak Stats" />
-</p>
