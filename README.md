@@ -20,6 +20,20 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 - 💬 **Ask me about:** Building MVPs, AI Agents, React, Next.js, or how to automate your business.
 - 😄 **Pronouns:** Bernie.
 
+<h2 align="center">Live Projects & Apps 🚀</h2>
+
+<p align="center">Here are some live examples of SaaS products I've built and deployed:</p>
+
+<p align="center">
+  💰 <strong><a href="https://solvencia.app/" target="_blank">Solvencia.app</a></strong><br>
+  <i>Personal finance and budget management simplified.</i>
+</p>
+
+<p align="center">
+  💳 <strong><a href="https://paycontrol.app/" target="_blank">PayControl.app</a></strong><br>
+  <i>Efficient payment conciliation and control system.</i>
+</p>
+
 <h2 align="center">Let's build your product :alien:</h2>
 
 <p align="center">
@@ -66,8 +80,6 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 </p>
-
-## Github stats :bar_chart:
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
