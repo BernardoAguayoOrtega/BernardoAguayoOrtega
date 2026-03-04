@@ -14,7 +14,7 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 - 🚀 **What I do:** I build robust web and mobile applications (MVPs) for startups and businesses 10x faster than traditional dev shops.
 - 🤖 **My Focus:** Specializing in **AI Agents**, **LLM Integration**, and **AIDD** to automate workflows and accelerate development.
 - 🎓 **Education:** I completed [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) and I'm currently specializing in Deep Learning & Math for AI at [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/).
-- 💼 **Experience:** Over 7 years in SaaS, High-Performance Web Apps, and Systems Architecture.
+- 💼 **Experience:** Having worked my entire life in startups, I bring over 7 years of experience building SaaS, High-Performance Web Apps, and Systems Architecture.
 - ⚡ **Superpower:** Using AI to reduce development time by 60% while maintaining enterprise-grade quality.
 - 👯 **Collaboration:** I'm looking to partner with founders who need a technical arm to launch their ideas.
 - 💬 **Ask me about:** Building MVPs, AI Agents, React, Next.js, or how to automate your business.
@@ -25,13 +25,18 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 <p align="center">Here are some live examples of SaaS products I've built and deployed:</p>
 
 <p align="center">
-  💰 <strong><a href="https://solvencia.app/" target="_blank">Solvencia.app</a></strong><br>
-  <i>Personal finance and budget management simplified.</i>
+  📅 <strong><a href="https://www.tuagenda.digital/" target="_blank">tuagenda.digital</a></strong><br>
+  <i>A powerful whitelabel scheduling tool designed for businesses.</i>
 </p>
 
 <p align="center">
-  💳 <strong><a href="https://paycontrol.app/" target="_blank">PayControl.app</a></strong><br>
-  <i>Efficient payment conciliation and control system.</i>
+  💰 <strong><a href="https://solvencia.app/" target="_blank">solvencia.app</a></strong><br>
+  <i>Personal finance application leveraging custom AI agents for OCR and advanced financial analysis.</i>
+</p>
+
+<p align="center">
+  💳 <strong><a href="https://paycontrol.app/" target="_blank">paycontrol.app</a></strong><br>
+  <i>A streamlined platform built to help SMEs digitize their operations and control payments.</i>
 </p>
 
 <h2 align="center">Let's build your product :alien:</h2>
@@ -55,6 +60,7 @@ I don't just write code; I architect systems that scale. From rapid MVP launches
 - **🤖 AI Agents:** Creating autonomous workers for code generation and business automation.
 - **🔧 AIDD (AI-Driven Development):** High-velocity coding using LLMs with Human-in-the-Loop validation.
 - **🧠 LLM Integration:** RAG (Retrieval-Augmented Generation) and Fine-tuning for custom business solutions.
+- **🗣️ Prompt Engineering:** Crafting advanced, structured prompts for optimal LLM performance and reliability.
 - **🏗️ Scalable Architecture:** Designing systems that support ML models from day one.
 
 <h2 align="center">My Stack :man_technologist:</h2>
