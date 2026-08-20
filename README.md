@@ -1,19 +1,19 @@
 # Hi there! I'm Bernardo (Bernie) <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="35px">
 
-**Senior AI Software Engineer & Tech Partner** *Building Scalable Architectures & Intelligent Agents at the Speed of AI.*
+**Senior AI Software Engineer & Tech Partner** *Orchestrating Multi-Agent Systems & Scalable Architectures at the Speed of AI.*
 
 ---
 
 ### 🧬 Professional Philosophy
-I am a Senior Software Engineer with a deep focus on the intersection of **Generative AI** and **Robust System Architecture**. With 7+ years of experience in high-growth startups, I specialize in building maintainable, high-performance applications.
+I am a Senior Software Engineer working at the intersection of **Generative AI** and **Robust System Architecture**. With 7+ years in high-growth startups, I currently ship production features at **Algocyte** (Oxford Immune Algorithmics), orchestrating multi-agent workflows across **Claude, Gemini, and OpenAI** — dynamically routing tasks between models to clear engineering bottlenecks and build resilient systems.
 
-My philosophy: **Speed should never come at the cost of technical debt.** I leverage **AI-Driven Development (AIDD)** to accelerate the SDLC while ensuring the underlying architecture remains enterprise-grade and future-proof.
+My philosophy: **Speed should never come at the cost of technical debt.** I leverage **AI-Driven Development (AIDD)** to accelerate the SDLC, and I pair it with **Human-in-the-Loop (HITL) protocols** so autonomous agents move fast without compromising production-grade quality.
 
 ---
 
 ### 🛠️ Core Expertise
-- **🤖 Generative AI Integration:** Architecting autonomous agents, LLM orchestration, and advanced RAG systems to automate complex workflows.
-- **🏗️ Full-Stack Architecture:** Expert-level development with **Next.js, React, Node.js, and Python**, focusing on multi-tenant SaaS.
+- **🤖 Multi-Agent Orchestration:** Architecting autonomous agents and the orchestration layers that securely bridge them with frontend interfaces and backend logic — plus advanced RAG and prompt engineering.
+- **🏗️ Full-Stack Architecture:** Expert-level development with **Next.js, React, Node.js, FastAPI, and Python**, focusing on multi-tenant SaaS.
 - **🚀 Scalable Engineering:** Designing systems that grow—from database optimization in **Supabase** to cloud deployment on **Vercel**.
 - **🎯 Product Ownership:** I partner with founders to turn visions into MVPs 10x faster through AI-augmented workflows.
 
@@ -22,9 +22,8 @@ My philosophy: **Speed should never come at the cost of technical debt.** I leve
 ### 🚀 Featured Live Projects
 | Project | Description | Tech Highlights |
 | :--- | :--- | :--- |
-| 💰 **[Solvencia.app](https://solvencia.app/)** | AI Personal Finance | OCR, Custom AI Agents, Advanced Data Analysis. |
 | 📅 **[TuAgenda.digital](https://www.tuagenda.digital/)** | Whitelabel Scheduling | Scalable Infrastructure, Multi-tenant Architecture. |
-| 💳 **[PayControl.app](https://paycontrol.app/)** | SME Digitalization | Payment Control & Operations for small businesses. |
+| ⚖️ **Abogacía** | AI for Legal Workflows | Document Automation, Custom AI Agents. |
 
 ---
 
@@ -37,10 +36,11 @@ My philosophy: **Speed should never come at the cost of technical debt.** I leve
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-- **AI & ML:** LLMs (GPT-4, Claude, Gemini), Custom Agents, Prompt Engineering, PyTorch.
+- **AI & ML:** LLMs (Claude, Gemini, GPT), Multi-Agent Orchestration, Custom Agents, Prompt Engineering, PyTorch.
 - **Frontend:** React Native, Tailwind CSS, State Management (Zustand, Redux).
 - **Backend:** FastAPI, Django, PostgreSQL, Vector Databases (Pinecone/pgvector).
 - **Education:** Currently specializing in **Deep Learning & Math for AI** at [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/).
