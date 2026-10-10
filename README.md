@@ -1,21 +1,21 @@
 # Hi there! I'm Bernardo (Bernie) <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="35px">
 
-**Senior AI Software Engineer & Tech Partner** *Orchestrating Multi-Agent Systems & Scalable Architectures at the Speed of AI.*
+**Senior AI Software Engineer & Agent Engineer** *Orchestrating Multi-Agent Systems & Scalable Architectures at the Speed of AI.*
 
 ---
 
 ### 🧬 Professional Philosophy
-I am a Senior Software Engineer working at the intersection of **Generative AI** and **Robust System Architecture**. With 7+ years in high-growth startups, I currently ship production features at **Algocyte** (Oxford Immune Algorithmics), orchestrating multi-agent workflows across **Claude, Gemini, and OpenAI** — dynamically routing tasks between models to clear engineering bottlenecks and build resilient systems.
+I am a Senior Software Engineer working at the intersection of **Generative AI** and **Robust System Architecture**. With 7+ years in high-growth startups, I ship production-grade features by orchestrating multi-agent workflows across **Claude, Gemini, and OpenAI**. I act as the core orchestrator: dynamically routing tasks between models, provisioning cloud infrastructures for agentic ecosystems, and instituting **Human-in-the-Loop (HITL) protocols** so autonomous speed never outruns engineering oversight.
 
-My philosophy: **Speed should never come at the cost of technical debt.** I leverage **AI-Driven Development (AIDD)** to accelerate the SDLC, and I pair it with **Human-in-the-Loop (HITL) protocols** so autonomous agents move fast without compromising production-grade quality.
+My philosophy balances rapid delivery with clean architecture. By leveraging **AI-Driven Development (AIDD)**—using autonomous agents and LLMs to automate code generation and engineering workflows—I accelerate the SDLC without adding technical debt. Recently, this approach, combined with advanced prompt caching and routing strategies, **reduced development time by 90%** and **cut AI token consumption by 60%**.
 
 ---
 
 ### 🛠️ Core Expertise
-- **🤖 Multi-Agent Orchestration:** Architecting autonomous agents and the orchestration layers that securely bridge them with frontend interfaces and backend logic — plus advanced RAG and prompt engineering.
-- **🏗️ Full-Stack Architecture:** Expert-level development with **Next.js, React, Node.js, FastAPI, and Python**, focusing on multi-tenant SaaS.
-- **🚀 Scalable Engineering:** Designing systems that grow—from database optimization in **Supabase** to cloud deployment on **Vercel**.
-- **🎯 Product Ownership:** I partner with founders to turn visions into MVPs 10x faster through AI-augmented workflows.
+- **🤖 Multi-Agent Orchestration:** Architecting custom AI agents, LLM routing layers, and advanced prompt engineering (optimizing tokens & latency) to automate complex workflows like OCR and financial parsing.
+- **🏗️ Full-Stack Architecture:** Expert-level development with **Next.js, React, Node.js, FastAPI, Python, and Flutter**, focusing on resilient, multi-tenant SaaS environments.
+- **🚀 Scalable Engineering & AI FinOps:** Designing systems that grow sustainably—from database optimization using **Supabase** and **PowerSync** to cloud deployments on **Vercel** and agentic infrastructures.
+- **🎯 Product Ownership:** I partner with stakeholders to turn visions into reality, delivering MVPs, PoCs, and technical spikes 10x faster through AI-augmented workflows.
 
 ---
 
@@ -23,7 +23,7 @@ My philosophy: **Speed should never come at the cost of technical debt.** I leve
 | Project | Description | Tech Highlights |
 | :--- | :--- | :--- |
 | 📅 **[TuAgenda.digital](https://www.tuagenda.digital/)** | Whitelabel Scheduling | Scalable Infrastructure, Multi-tenant Architecture. |
-| ⚖️ **Abogacía** | AI for Legal Workflows | Document Automation, Custom AI Agents. |
+| ⚖️ **Abogacía** | AI for Legal Workflows | Document Automation, Custom AI Agents, RAG. |
 
 ---
 
@@ -33,6 +33,7 @@ My philosophy: **Speed should never come at the cost of technical debt.** I leve
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -40,9 +41,9 @@ My philosophy: **Speed should never come at the cost of technical debt.** I leve
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-- **AI & ML:** LLMs (Claude, Gemini, GPT), Multi-Agent Orchestration, Custom Agents, Prompt Engineering, PyTorch.
-- **Frontend:** React Native, Tailwind CSS, State Management (Zustand, Redux).
-- **Backend:** FastAPI, Django, PostgreSQL, Vector Databases (Pinecone/pgvector).
+- **AI & ML:** LLMs (Claude, Gemini, GPT), Multi-Agent Orchestration, Prompt Caching, Token Optimization, RAG, PyTorch.
+- **Frontend & Mobile:** React, React Native, Flutter, Tailwind CSS, Zustand, Redux.
+- **Backend & Infra:** FastAPI, Node.js, PowerSync, Vercel, PostgreSQL, Vector Databases (Pinecone/pgvector).
 - **Education:** Currently specializing in **Deep Learning & Math for AI** at [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/).
 
 ---
@@ -56,7 +57,7 @@ My philosophy: **Speed should never come at the cost of technical debt.** I leve
 ---
 
 ### 📫 Let's Connect
-I am always looking to partner with teams pushing the boundaries of what’s possible with AI.
+I am always looking to partner with teams pushing the boundaries of what’s possible with AI and modern software engineering.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bernardo-aguayo/">
